@@ -1,0 +1,6 @@
+name = "mohammedajmal"
+compatibility_date = "2025-07-13"
+
+# Serve the static files (index.html) in this repo as the website.
+[assets]
+directory = "."
